@@ -18,7 +18,7 @@ public class Depends {
 		System.out.println("sentitems");
 	}
 	
-	@Test(groups="vidya",priority="1")
+	@Test(groups="vidya",priority=1)
 	public void trash()
 	{
 		System.out.println("Trash");
