@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54" started-at="2020-10-02T07:41:21Z" finished-at="2020-10-02T07:41:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54" started-at="2020-10-02T07:41:21Z" finished-at="2020-10-02T07:41:21Z">
+      <class name="testscripts.Log4J">
+        <test-method status="PASS" signature="logreport()[pri:0, instance:testscripts.Log4J@3ab39c39]" name="logreport" duration-ms="38" started-at="2020-10-02T13:11:21Z" finished-at="2020-10-02T13:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logreport -->
+      </class> <!-- testscripts.Log4J -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
